@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "title": "Curiosidades da Alimentação",
+    "aspect_ratio": "9:16",
+    "duration_seconds": 45,
+    "platform": "instagram_reels"
+  },
+  "audio": {
+    "voice_over": {
+      "language": "pt-BR",
+      "script": [
+        "Vamos conhecer curiosidades que talvez você nunca tenha ouvido sobre alimentação!",
+        "Quando cozinhamos a cenoura, o calor quebra as paredes celulares e facilita a absorção do betacaroteno, que se transforma em vitamina A no corpo.",
+        "Grãos como quinoa e lentilha são ricos em proteínas, fibras e minerais, sendo ótimos aliados para uma dieta equilibrada.",
+        "Sementes como as de abóbora e linhaça são cheias de ácidos graxos essenciais, ótimos para a saúde cardiovascular.",
+        "Além de ser refrescante, o chá verde é rico em antioxidantes, que ajudam a combater o estresse oxidativo no corpo."
+      ]
+    },
+    "music_bed": {
+      "mood": "uplifting",
+      "intensity": "medium"
+    }
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "start": 0,
+      "end": 5,
+      "prompt": "Close-up macro of colorful fresh fruits and vibrant dishes arranged on a wooden table, bright daylight, smooth camera push-in, cinematic lighting",
+      "on_screen_text": "Você sabia?",
+      "transitions": {
+        "out": "quick_cut"
+      }
+    },
+    {
+      "id": 2,
+      "start": 5,
+      "end": 15,
+      "prompt": "Fresh carrots, some raw and some steaming hot on a rustic kitchen counter, split-screen style, highlighting textures, professional food photography, natural steam effects",
+      "on_screen_text": "Cenoura crua ≠ Cenoura cozida?",
+      "transitions": {
+        "in": "quick_cut",
+        "out": "snap_zoom"
+      }
+    },
+    {
+      "id": 3,
+      "start": 15,
+      "end": 25,
+      "prompt": "Quinoa, feijão e lentilha servidos em tigelas de cerâmica sobre fundo escuro, iluminação lateral suave, câmera giratória 180 graus, estilo editorial",
+      "on_screen_text": "Superalimentos?",
+      "transitions": {
+        "in": "snap_zoom",
+        "out": "whip_pan"
+      }
+    },
+    {
+      "id": 4,
+      "start": 25,
+      "end": 35,
+      "prompt": "Close-up slow motion of sliced kiwi, romã e sementes caindo em uma tigela, luz suave, fundo desfocado, estética clean",
+      "on_screen_text": "Sementes são ouro!",
+      "transitions": {
+        "in": "whip_pan",
+        "out": "match_cut"
+      }
+    },
+    {
+      "id": 5,
+      "start": 35,
+      "end": 45,
+      "prompt": "Xícaras de chá verde fumegante com folhas frescas, vapor visível, movimento de câmera em dolly-out, clima relaxante, luz matinal",
+      "on_screen_text": "Chá verde?",
+      "transitions": {
+        "in": "match_cut",
+        "out": "fade_to_black"
+      }
+    }
+  ],
+  "closing_overlay": {
+    "start": 45,
+    "end": 48,
+    "text": "Gostou? Comente sua curiosidade!",
+    "secondary_text": "Compartilhe e marque um amigo!",
+    "background_style": "solid_gradient",
+    "colors": ["#FFB347", "#FFCC33"]
+  },
+  "captions": {
+    "auto_generate": true,
+    "style": {
+      "font": "Montserrat Bold",
+      "size": "medium",
+      "color": "#FFFFFF",
+      "background": "#00000080"
+    }
+  }
+}
